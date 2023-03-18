@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-folio/static/css/main.172f2812.css",
-    "main.js": "/E-folio/static/js/main.ccc5cf45.js",
+    "main.css": "/E-folio/static/css/main.fa7c2827.css",
+    "main.js": "/E-folio/static/js/main.b1050486.js",
     "static/media/nike.jpg": "/E-folio/static/media/nike.a76edd07390f48a71c6b.jpg",
     "static/media/Bootstrap.png": "/E-folio/static/media/Bootstrap.430491e6a02f91bf55d6.png",
     "static/media/heroImage.jpeg": "/E-folio/static/media/heroImage.0474f9d6798c504956ab.jpeg",
@@ -14,11 +14,11 @@
     "static/media/boutique.jpg": "/E-folio/static/media/boutique.2cc5218f0bd082071e3b.jpg",
     "static/media/javascript.png": "/E-folio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/E-folio/index.html",
-    "main.172f2812.css.map": "/E-folio/static/css/main.172f2812.css.map",
-    "main.ccc5cf45.js.map": "/E-folio/static/js/main.ccc5cf45.js.map"
+    "main.fa7c2827.css.map": "/E-folio/static/css/main.fa7c2827.css.map",
+    "main.b1050486.js.map": "/E-folio/static/js/main.b1050486.js.map"
   },
   "entrypoints": [
-    "static/css/main.172f2812.css",
-    "static/js/main.ccc5cf45.js"
+    "static/css/main.fa7c2827.css",
+    "static/js/main.b1050486.js"
   ]
 }
